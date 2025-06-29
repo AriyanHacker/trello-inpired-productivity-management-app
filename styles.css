@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    column-gap: 1vw;
+}
+
+#main {
+    padding: 5px;
+    background-color: rgb(169, 159, 179);
+    width: 20vw;
+    height: 10vh;
+    border-radius: 15px;
+    text-align: center;
+}
+
+#add {
+    background-color: rgb(204, 198, 198);
+    border: 2px blanchedalmond dotted;
+    width: 20vw;
+    height: 5vh;
+    border-radius: 15px;
+    text-align: center;
+}
+
+#inp1 {
+    padding-top: 5px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(208, 188, 226);
+    color: whitesmoke;
+}
+
+#add:hover {
+    height: 20vh;
+}
